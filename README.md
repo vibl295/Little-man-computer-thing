@@ -5,5 +5,5 @@ However, I am able to add, sub,load,store and input into memory.
 
 
 this program works *much* better when run in the terminal
->>python3 CPU.py
+>python3 CPU.py
 
