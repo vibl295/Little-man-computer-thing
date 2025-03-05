@@ -10,7 +10,7 @@ def clear():
     if os.name == 'nt':
         os.system('cls')  
     else:
-        os.environ['TERM'] = 'xterm'  # Set TERM to 'xterm' for other platforms like macOS and Linux
+        os.environ['TERM'] = 'xterm'  
         os.system('clear')
     
 def initialise():
